@@ -13,14 +13,14 @@ body{
 }
 
 main{
-    max-width: 600px;
-    max-height: 550px;
+    max-width: 700px;
+    max-height: 500px;
     display: flex;
     align-items: center;
     justify-content: center;
     background-color: white;
     border-radius: 10px;
-    margin: 100px auto;
+    margin: 80px auto;
     box-shadow: 5px 5px 30px #9d7bec6c;
 
 }
@@ -31,6 +31,7 @@ main .resultado{
     text-align: center;
     color: white;
     border-radius: 10px;
+    height: 480px;
 }
 
 main .resultado span{
@@ -102,7 +103,7 @@ main .sumarios .botao-continuar:hover{
 }
 
 main .sumarios .sumario .notas{
-    padding-left: 15px;
+    padding-left: 40px;
     text-align: end;
 }
 
