@@ -101,6 +101,11 @@ main .sumarios .botao-continuar:hover{
     background-color: #744ae8;
 }
 
+main .sumarios .sumario .notas{
+    padding-left: 15px;
+    text-align: end;
+}
+
 .reacao{
     background-color: rgb(255, 213, 213);
 }
